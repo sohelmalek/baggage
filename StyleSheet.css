@@ -1,0 +1,57 @@
+html,
+body {
+    font-family: 'Andika New Basic', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+
+p,
+h4 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.banner-text h1 {
+    letter-spacing: 1px;
+    word-spacing: 6px;
+}
+
+.header-menu-icon a,
+.nav-item a {
+    color: #343a40;
+}
+
+.bg-theme {
+    background: #7aa3ffdb;
+}
+
+.logo-min {
+    font-size: 18px;
+}
+
+.nav-item a {
+    font-size: 17px;
+}
+
+.nav-item a:hover {
+    color: #dc3545 !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.service-section .container .row div p,
+.travel-must div p {
+    font-size: 15px;
+    color: #000000b8;
+    line-height: 1.9;
+}
+
+.travel-must-img {
+    background-size: cover;
+    min-height: 36em;
+    background: url('https://i.ibb.co/LYFytMR/banner1.jpg') no-repeat center;
+}
